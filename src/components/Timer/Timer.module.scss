@@ -1,0 +1,14 @@
+.timerWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  background-color: #1f2a38;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: center; 
+  gap: 20px; 
+  background-color: #1f2a38;
+  margin-bottom: 25px;
+}
